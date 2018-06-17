@@ -1,0 +1,21 @@
+.App {
+    max-width: 500px;
+    margin: 30px auto;
+    background-color: lightcyan;
+    text-align: center;
+}
+
+.FormWizard {
+    display: flex;
+    flex-direction: column;
+}
+
+.StepList {
+    height: 200px;
+}
+
+.ButtonList {
+    display: flex;
+    justify-content: space-between;
+    margin-top: auto;
+}
